@@ -60,7 +60,10 @@ Week-1-Inflation-vs-Market-Returns/
 │       └── combined_analysis.csv     # Full analysis dataset
 │
 ├── notebooks/
-│   └── inflation_vs_returns_analysis.ipynb  # Main analysis notebook
+│   ├── 01_inflation_vs_returns.ipynb
+│   ├── 02_inflation_aware_allocation.ipynb
+│   ├── 03_inflation_mechanisms.ipynb
+│   └── 04_causal_inflation_effects.ipynb 
 │
 ├── src/                              # Python source modules
 │   ├── data_loader.py               # Data loading and preprocessing
